@@ -3,11 +3,11 @@ marp: true
 theme: uncover
 ---
 
-# How (not) to (use) AI
+![bg fit](image7.png)
 
 ---
 
-![bg fit](image7.png)
+# How (not) to (use) AI
 
 ---
 # What are we talking about 
@@ -44,6 +44,7 @@ Data is valuable
 
 ---
 # Smart factory technology Innovation Technical consultant
+##### (Whatever that means)
 
 ---
 
@@ -101,8 +102,13 @@ Data is valuable
 </video>
 
 ---
+# <span style="color:white">Generative AI</span>
 
-# Generative AI
+![bg fit](20231002180633.png)
+
+---
+
+![bg fit](20231002180117.png)
 
 ---
 
@@ -144,6 +150,49 @@ Data is valuable
 
 ---
 
+# Applications
+
+---
+
+Talk to production line
+
+---
+
+Expected
+```
+Prompt:
+What whas the avrage temperature for the current production item
+Answer:
+15C
+```
+
+---
+
+Early gpt example
+```
+Prompt:
+Please find the lowest Amount in the table below.
+| Description | Amount |
+| Pants       | 5      |
+| Skirt       | 5      |
+| Shoes       | 5      |
+-------------------------------------------------
+Response:
+| Panda       | 5      |
+| Tie         | 5      |
+| Glasses     | 5      |
+
+```
+---
+
+Generative AI will never be 100% reliable.
+
+---
+
+Generate a event log, and use AI to scroll to the right position.
+
+---
+
 # How not to AI
 
 ---
@@ -160,18 +209,18 @@ Data is valuable
 
 ---
 
+# Why not generate the data for you model
 Bad data
 Rigid pipeline
 Framented data
 
 ---
 
-# Platforms
+![bg fit](20231002172319.png)
 
 ---
 
-# Conclusion
-
+Questions?
 
 ---
 
@@ -179,7 +228,7 @@ Framented data
 
 ---
 
-# **Next up: 03/12/2023**
+# **Next up: 05/12/2023**
 <p></p>
 <p></p>
 <p></p>
@@ -199,7 +248,7 @@ Framented data
 <p></p>
 <p></p>
 
-### ``Name - **TODO("Not implemented")**``
+### ``Open space``
 <p></p>
 <p></p>
 <p></p>
@@ -210,5 +259,4 @@ Framented data
 ![bg fit](image7.png)
 
 ---
-
-# Sources
+https://github.com/tl3ilaxu/aitalk
